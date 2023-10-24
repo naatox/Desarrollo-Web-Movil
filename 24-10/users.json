@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "first_name": "anashe",
+      "last_name": "jejgod",
+      "email": "jejegod@gnmail.com",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "first_name": "don",
+      "last_name": "Morales",
+      "email": "renato.morales@al.cl"
+    },
+    {
+      "first_name": "Jamon",
+      "last_name": "Cerdon",
+      "email\n": "Hamon_cedon@gmail.com",
+      "id": 5
+    },
+    {
+      "first_name": "RIcardo",
+      "last_name": "Urvina",
+      "email": "ricardo.urvina@ucn.cl",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
